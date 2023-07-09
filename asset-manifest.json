@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/letter-search_bad/static/css/main.0d8e94f8.css",
+    "main.js": "/letter-search_bad/static/js/main.feaa29bb.js",
+    "index.html": "/letter-search_bad/index.html",
+    "main.0d8e94f8.css.map": "/letter-search_bad/static/css/main.0d8e94f8.css.map",
+    "main.feaa29bb.js.map": "/letter-search_bad/static/js/main.feaa29bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8e94f8.css",
+    "static/js/main.feaa29bb.js"
+  ]
+}
